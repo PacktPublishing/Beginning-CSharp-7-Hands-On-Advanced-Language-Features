@@ -31,3 +31,7 @@ Visual Studio 2017, which will install and run on Windows 7 or above, and 2 GB o
 
 * [C# 7 and .NET Core 2.0 Blueprints](https://www.packtpub.com/application-development/c-7-and-net-core-20-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781788396196)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788294263">https://packt.link/free-ebook/9781788294263 </a> </p>
